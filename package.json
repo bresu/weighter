@@ -9,11 +9,14 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "pdfjs-dist": "^2.16.105",
     "vue": "^3.2.13"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
     "@babel/eslint-parser": "^7.12.16",
+    "@babel/plugin-transform-class-static-block": "^7.24.7",
+    "@babel/plugin-transform-private-methods": "^7.25.4",
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-eslint": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
